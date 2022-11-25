@@ -1,0 +1,12 @@
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityModelLib.dll.config
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityModelLib.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityModelLib.pdb
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.xml
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.csproj.AssemblyReference.cache
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.csproj.CoreCompileInputs.cache
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.csproj.CopyComplete
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\EntityModelLib\obj\Debug\EntityModelLib.pdb

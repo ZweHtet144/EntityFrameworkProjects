@@ -1,0 +1,17 @@
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\HttpClientTest.exe.config
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\HttpClientTest.exe
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\HttpClientTest.pdb
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\EntityModelLib.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\System.Net.Http.Formatting.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\EntityFramework.dll
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\EntityModelLib.pdb
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\EntityModelLib.dll.config
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\Newtonsoft.Json.xml
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\System.Net.Http.Formatting.xml
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\bin\Debug\EntityFramework.xml
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\obj\Debug\HttpClientTest.csproj.AssemblyReference.cache
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\obj\Debug\HttpClientTest.csproj.CoreCompileInputs.cache
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\obj\Debug\HttpClientTest.csproj.CopyComplete
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\obj\Debug\HttpClientTest.exe
+D:\MyProjects\EntityFrameworkProjects\DotNetCore\Calling Web API using HttpClient\HttpClientTest\obj\Debug\HttpClientTest.pdb
